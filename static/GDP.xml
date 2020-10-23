@@ -1,0 +1,120 @@
+<row>
+    <CountryGroupCode>1</CountryGroupCode>
+    <CountryGroupName>World</CountryGroupName>
+    <Scale>Billions</Scale>
+    <SubjectCode>NGDPD</SubjectCode>
+    <SubjectDescriptor>Gross domestic product, current prices</SubjectDescriptor>
+    <Units>U.S. dollars</Units>
+    <Value_>111.11</Value_>
+    <Year>2015</Year>
+</row>
+<row>
+    <CountryGroupCode>1</CountryGroupCode>
+    <CountryGroupName>World</CountryGroupName>
+    <Scale>Billions</Scale>
+    <SubjectCode>NGDPD</SubjectCode>
+    <SubjectDescriptor>Gross domestic product, current prices</SubjectDescriptor>
+    <Units>U.S. dollars</Units>
+    <Value_>222.22</Value_>
+    <Year>2016</Year>
+</row>
+<row>
+    <CountryGroupCode>1</CountryGroupCode>
+    <CountryGroupName>World</CountryGroupName>
+    <Scale>Billions</Scale>
+    <SubjectCode>NGDPD</SubjectCode>
+    <SubjectDescriptor>Gross domestic product, current prices</SubjectDescriptor>
+    <Units>U.S. dollars</Units>
+    <Value_>333.33</Value_>
+    <Year>2017</Year>
+</row>
+<row>
+    <CountryGroupCode>1</CountryGroupCode>
+    <CountryGroupName>World</CountryGroupName>
+    <Scale>Billions</Scale>
+    <SubjectCode>NGDPD</SubjectCode>
+    <SubjectDescriptor>Gross domestic product, current prices</SubjectDescriptor>
+    <Units>U.S. dollars</Units>
+    <Value_>444.44</Value_>
+    <Year>2018</Year>
+</row>
+<row>
+    <CountryGroupCode>110</CountryGroupCode>
+    <CountryGroupName>Advanced economies</CountryGroupName>
+    <Scale>Billions</Scale>
+    <SubjectCode>NGDPD</SubjectCode>
+    <SubjectDescriptor>Gross domestic product, current prices</SubjectDescriptor>
+    <Units>U.S. dollars</Units>
+    <Value_>555.55</Value_>
+    <Year>2015</Year>
+</row>
+<row>
+    <CountryGroupCode>110</CountryGroupCode>
+    <CountryGroupName>Advanced economies</CountryGroupName>
+    <Scale>Billions</Scale>
+    <SubjectCode>NGDPD</SubjectCode>
+    <SubjectDescriptor>Gross domestic product, current prices</SubjectDescriptor>
+    <Units>U.S. dollars</Units>
+    <Value_>666.66</Value_>
+    <Year>2016</Year>
+</row>
+<row>
+    <CountryGroupCode>110</CountryGroupCode>
+    <CountryGroupName>Advanced economies</CountryGroupName>
+    <Scale>Billions</Scale>
+    <SubjectCode>NGDPD</SubjectCode>
+    <SubjectDescriptor>Gross domestic product, current prices</SubjectDescriptor>
+    <Units>U.S. dollars</Units>
+    <Value_>777.77</Value_>
+    <Year>2017</Year>
+</row>
+<row>
+    <CountryGroupCode>110</CountryGroupCode>
+    <CountryGroupName>Advanced economies</CountryGroupName>
+    <Scale>Billions</Scale>
+    <SubjectCode>NGDPD</SubjectCode>
+    <SubjectDescriptor>Gross domestic product, current prices</SubjectDescriptor>
+    <Units>U.S. dollars</Units>
+    <Value_>888.88</Value_>
+    <Year>2018</Year>
+</row>
+<row>
+    <CountryGroupCode>163</CountryGroupCode>
+    <CountryGroupName>Euro area </CountryGroupName>
+    <Scale>Billions</Scale>
+    <SubjectCode>NGDPD</SubjectCode>
+    <SubjectDescriptor>Gross domestic product, current prices</SubjectDescriptor>
+    <Units>U.S. dollars</Units>
+    <Value_>999.99</Value_>
+    <Year>2015</Year>
+</row>
+<row>
+    <CountryGroupCode>163</CountryGroupCode>
+    <CountryGroupName>Euro area </CountryGroupName>
+    <Scale>Billions</Scale>
+    <SubjectCode>NGDPD</SubjectCode>
+    <SubjectDescriptor>Gross domestic product, current prices</SubjectDescriptor>
+    <Units>U.S. dollars</Units>
+    <Value_>100.10</Value_>
+    <Year>2016</Year>
+</row>
+<row>
+    <CountryGroupCode>163</CountryGroupCode>
+    <CountryGroupName>Euro area </CountryGroupName>
+    <Scale>Billions</Scale>
+    <SubjectCode>NGDPD</SubjectCode>
+    <SubjectDescriptor>Gross domestic product, current prices</SubjectDescriptor>
+    <Units>U.S. dollars</Units>
+    <Value_>200.20</Value_>
+    <Year>2017</Year>
+</row>
+<row>
+    <CountryGroupCode>163</CountryGroupCode>
+    <CountryGroupName>Euro area </CountryGroupName>
+    <Scale>Billions</Scale>
+    <SubjectCode>NGDPD</SubjectCode>
+    <SubjectDescriptor>Gross domestic product, current prices</SubjectDescriptor>
+    <Units>U.S. dollars</Units>
+    <Value_>300.30</Value_>
+    <Year>2018</Year>
+</row>

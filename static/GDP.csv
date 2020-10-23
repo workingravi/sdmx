@@ -1,0 +1,16 @@
+CountryGroupCode,SubjectCode,CountryGroupName,SubjectDescriptor,Units,Scale,Year,Value
+
+1,NGDPD,World,"Gross domestic product, current prices",U.S. dollars,Billions,"2015","111.11"
+1,NGDPD,World,"Gross domestic product, current prices",U.S. dollars,Billions,"2016","222.22"
+1,NGDPD,World,"Gross domestic product, current prices",U.S. dollars,Billions,"2017","333.33"
+1,NGDPD,World,"Gross domestic product, current prices",U.S. dollars,Billions,"2018","444.44"
+
+110,NGDPD,Advanced economies,"Gross domestic product, current prices",U.S. dollars,Billions,"2015","555.55"
+110,NGDPD,Advanced economies,"Gross domestic product, current prices",U.S. dollars,Billions,"2016","666.66"
+110,NGDPD,Advanced economies,"Gross domestic product, current prices",U.S. dollars,Billions,"2017","777.77"
+110,NGDPD,Advanced economies,"Gross domestic product, current prices",U.S. dollars,Billions,"2018","888.88"
+
+163,NGDPD,Euro area ,"Gross domestic product, current prices",U.S. dollars,Billions,"2015","999.99"
+163,NGDPD,Euro area ,"Gross domestic product, current prices",U.S. dollars,Billions,"2016","100.10"
+163,NGDPD,Euro area ,"Gross domestic product, current prices",U.S. dollars,Billions,"2017","200.20"
+163,NGDPD,Euro area ,"Gross domestic product, current prices",U.S. dollars,Billions,"2018","300.30"
